@@ -1,16 +1,7 @@
-# workouthelper
+# Workout helper
 
-A new Flutter project.
+This app tracks your progress in gym. Actually, there is only home page with full functional design.
 
-## Getting Started
+## The Main Page (Home Page)
+![image](https://github.com/code2solving/workout_app_flutterDesign/assets/113906959/f1f68441-43b2-4e78-901d-a4cb262d6a62)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
